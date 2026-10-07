@@ -2,4 +2,5 @@ Iphone
 Samsung 
 Redmi 
 Macbook 
-
+Computer
+Airpods
