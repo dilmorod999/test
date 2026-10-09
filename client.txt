@@ -1,6 +1,7 @@
-Dimitriy
-Mixail
-Sasha
-Aleksandr
-Maksim
-Alexandro
+Dimitriy - 5000
+Mixail - 4000
+Sasha - 3000
+Aleksandr - 60000
+Maksim - 100000
+Alexandro - 80000
+
